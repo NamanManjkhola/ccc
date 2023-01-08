@@ -36,7 +36,7 @@ const App = () => {
     <BrowserRouter>
       <Routes>
 
-        <Route path="/" element={<FrontPage name={username} loginstatus={login}/>}></Route>
+        <Route path="/ccc" element={<FrontPage name={username} loginstatus={login}/>}></Route>
         <Route path="/signup" element={<Signup/>}></Route>
         <Route path="/login" element={<Login/>}></Route>
         <Route path="/logout" element={<Logout/>}></Route>
