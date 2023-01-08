@@ -1,7 +1,6 @@
 {
   "name": "landingpage-react-template",
   "homepage": "https://NamanManjkhola.github.io/ccC",
-  <Route path='/{ccc}' exact component={App}/>
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
